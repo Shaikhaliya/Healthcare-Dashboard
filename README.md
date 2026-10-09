@@ -34,16 +34,6 @@ The dashboard includes KPIs, charts, drill-through pages, tooltips, slicers, boo
 - Data Cleaning
 - Data Transformation
 
----
-
-## 📊 Dashboard Preview
-
-### Main Dashboard
-
-(Add Screenshot Here)
-
----
-
 ## 📈 KPIs
 
 - Total Patients
